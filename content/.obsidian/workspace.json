@@ -13,26 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "home.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "cd301aed650bb6bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crayOS mascot draft.md",
+                "file": "posts/crayOS mascot draft.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "crayOS mascot draft.md",
+                "file": "posts/crayOS mascot draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "crayOS mascot draft.md",
+                "file": "posts/crayOS mascot draft.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "crayOS mascot draft.md"
+                "file": "posts/crayOS mascot draft.md"
               }
             }
           }
@@ -159,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cd301aed650bb6bf",
+  "active": "245d7a9e07060a0f",
   "lastOpenFiles": [
-    "Pasted image 20230421220210.png",
+    "posts/home.md",
+    "Pasted image 20230421220210.png.md",
+    "posts/crayOS mascot draft.md",
     "home.md",
-    "crayOS mascot draft.md"
+    "crayOS mascot draft.md",
+    "posts",
+    "Pasted image 20230421220210.png"
   ]
 }
